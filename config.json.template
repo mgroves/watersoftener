@@ -1,0 +1,9 @@
+{
+    "wifissid" : "<your wifi SSD>",
+    "wifipassword" : "<your wifi password>",
+    "mqtt_server" : "<mqtt server IP>",
+    "mqttusername" : "<mqtt username>",
+    "mqttpassword" : "<mqtt password>",
+    "secondsbetweenchecking" : <number of seconds to poll>,
+	"webpassword" : <password for making changes via web ui>
+}
